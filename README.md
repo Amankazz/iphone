@@ -1,6 +1,6 @@
 <h1>3-D Landing Page for Mobile in ReactJS</h1>
 View Demo👇:</br>
-https://modelxkazz.000webhostapp.com/
+https://silver-cupcake-a9054b.netlify.app/
 
 
 
